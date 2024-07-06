@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://b7f2b3xrkbp3b"]
+
+[ext_resource type="FontFile" uid="uid://dskmdk146n4rq" path="res://art/pixel_rpg.ttf" id="1_iy38q"]
+
+[resource]
+default_font = ExtResource("1_iy38q")
+default_font_size = 6
